@@ -1,4 +1,4 @@
 <?php
 echo "my name is laxmi";
-echo "hello";
+echo "hello"
 ?>
